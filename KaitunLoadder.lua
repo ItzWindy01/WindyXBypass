@@ -1,0 +1,1 @@
+game.Players.LocalPlayer:Kick("join discord for get new kaitun | discord.gg/windyhub")
